@@ -1,0 +1,18 @@
+[global_config]
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#000d1d"
+    background_darkness = 0.31
+    cursor_color = "#aaaaaa"
+    foreground_color = "#fce9da"
+    show_titlebar = False
