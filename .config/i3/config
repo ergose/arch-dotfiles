@@ -7,7 +7,7 @@ set $mod Mod4
 font pango:ttf-hack 8
 
 # Set Background
-exec --no-startup-id feh --bg-scale /home/micah/Pictures/Backgrounds/starwars.png
+exec --no-startup-id feh --bg-scale /home/micah/Pictures/Backgrounds/starwars2.jpg
 
 # Start Compton
 exec --no-startup-id compton
