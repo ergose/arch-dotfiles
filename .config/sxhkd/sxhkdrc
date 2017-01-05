@@ -1,0 +1,14 @@
+alt + F6
+	xbacklight -dec 10
+
+alt + F7
+	xbacklight -inc 10
+
+alt + F8
+	pactl set-sink-mute 1 toggle
+
+alt + F9
+	pactl set-sink-volume 1 -5%
+
+alt + F10
+	pactl set-sink-volume 1 +5%
