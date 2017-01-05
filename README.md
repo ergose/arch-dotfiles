@@ -1,4 +1,4 @@
-![i3gaps](http://i.imgur.com/VOffiTs.png)
+![i3gaps](http://i.imgur.com/D9F2P0J.png)
 
 Using:
 
